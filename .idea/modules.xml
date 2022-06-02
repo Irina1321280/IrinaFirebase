@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IrinaFirebase.iml" filepath="$PROJECT_DIR$/.idea/modules/IrinaFirebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IrinaFirebase.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IrinaFirebase.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IrinaFirebase.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IrinaFirebase.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IrinaFirebase.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IrinaFirebase.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IrinaFirebase.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IrinaFirebase.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
